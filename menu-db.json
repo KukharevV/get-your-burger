@@ -1,0 +1,136 @@
+{
+  "burgers": [
+    {
+      "id": "1",
+      "label": "Big Mack",
+      "description": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac® sauce sandwiched between a sesame seed bun. It’s topped off with pickles, crisp lettuce, onions and American cheese for a 100% beef burger with a taste like no other. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like.",
+      "cal": 524,
+      "ingredients": [
+        {
+          "id": "1",
+          "label": "Buns",
+          "count": 3
+        },
+        {
+          "id": "2",
+          "label": "Beef Patty",
+          "count": 2
+        },
+        {
+          "id": "3",
+          "label": "Ketchup",
+          "count": 1
+        },
+        {
+          "id": "4",
+          "label": "Bacon",
+          "count": 0
+        },
+        {
+          "id": "5",
+          "label": "Chesse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Big Tasty",
+      "description": "A big and tasty Halal beef patty smothered in our one of a kind Big Tasty Sauce and 3 slices of emmental cheese, dressed with 2 slices of tomato, a handful of crispy shredded lettuce and slivered onions.",
+      "cal": 834,
+      "ingredients": [
+        {
+          "id": "1",
+          "label": "Buns",
+          "count": 2
+        },
+        {
+          "id": "2",
+          "label": "Beef Patty",
+          "count": 1
+        },
+        {
+          "id": "3",
+          "label": "Ketchup",
+          "count": 1
+        },
+        {
+          "id": "4",
+          "label": "Bacon",
+          "count": 0
+        },
+        {
+          "id": "5",
+          "label": "Chesse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "DoubleCheeseburger",
+      "description": "The Double Cheeseburger features two 100% pure beef patties seasoned with just a pinch of salt and pepper. It’s topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like.",
+      "cal": 440,
+      "ingredients": [
+        {
+          "id": "1",
+          "label": "Buns",
+          "count": 2
+        },
+        {
+          "id": "2",
+          "label": "Beef Patty",
+          "count": 2
+        },
+        {
+          "id": "3",
+          "label": "Ketchup",
+          "count": 1
+        },
+        {
+          "id": "4",
+          "label": "Bacon",
+          "count": 0
+        },
+        {
+          "id": "5",
+          "label": "Chesse",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Quarter Pounder with Cheese Bacon",
+      "description": "Each Quarter Pounder® with Cheese Bacon burger features three pieces of crispy, applewood smoked bacon atop a ¼ lb.* of 100% fresh beef that’s cooked when you order. It’s hot, deliciously juicy, seasoned with just a pinch of salt and pepper and sizzled on our flat iron grill. Layered with two slices of melty American cheese, slivered onions and tangy pickles on a soft, fluffy sesame seed bun.",
+      "cal": 640,
+      "ingredients": [
+        {
+          "id": "1",
+          "label": "Buns",
+          "count": 2
+        },
+        {
+          "id": "2",
+          "label": "Beef Patty",
+          "count": 1
+        },
+        {
+          "id": "3",
+          "label": "Ketchup",
+          "count": 1
+        },
+        {
+          "id": "4",
+          "label": "Bacon",
+          "count": 1
+        },
+        {
+          "id": "5",
+          "label": "Chesse",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

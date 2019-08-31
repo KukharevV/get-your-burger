@@ -1,0 +1,22 @@
+.order-list-item {
+  margin: 10px 5px;
+}
+
+.order-description {
+  margin-left: 15px;
+}
+
+.ing-item {
+  background-color: 	rgba(128, 128, 128, 0.1);
+  transition: all .1s;
+}
+
+.ing-item:hover {
+  background-color: 	rgba(128, 128, 128, 0.2);
+}
+
+.ing-label {
+  font-weight: bold;
+
+  margin: 5px;
+}

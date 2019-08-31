@@ -1,0 +1,33 @@
+.burger-configurator {
+  margin-bottom: 40px;
+}
+
+.burger-image {
+  text-align: center;
+}
+
+.burger-image img{
+ width: 90%;
+}
+
+.burger-info {
+  padding-top: 55px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.cal-info {
+  font-size: 20px;
+  color: #6f6f6f;
+}
+
+.descriprion {
+  color: #6f6f6f
+}
+
+.accept-button {
+  float: right;
+  margin: 10px 0;
+}

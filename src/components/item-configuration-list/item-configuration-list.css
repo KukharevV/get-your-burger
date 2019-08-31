@@ -1,0 +1,19 @@
+.ingr-button {
+  width: 40px;
+  margin-right: 5px;
+  font-size: 16px;
+}
+
+.ingr-img {
+  width: 15%;
+}
+
+.count {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+.label {
+  font-size: 20px;
+}
